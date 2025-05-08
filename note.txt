@@ -1,0 +1,5 @@
+repository(kho chứa dữ liệu của git) 2 loại
+1.local repo : trên máy (local)
+2.emote repo : online
+git init: tao repo kho local
+git add . :
